@@ -1,1 +1,0 @@
-this_print("Hello");
